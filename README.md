@@ -4,10 +4,10 @@ This Jupyter notebook contains an analysis of a health insurance dataset to extr
 
 ## Requirements
 
-To run this notebook, you will need to have Python(+ some libraries) and Jupyter Notebook installed on your machine. You can install Python, Pandas, Matplotlib, Jupyter Notebook using pip:
+To run this notebook, you will need to have Python and Jupyter Notebook installed on your machine. You can get Matplotlib and Jupyter Notebook using pip:
 
 ```bash
-pip install notebook
+pip install notebook matplotlib
 ```
 ## Execution Instructions
 
@@ -23,6 +23,7 @@ jupyter notebook medical_insurance_analysis.ipynb
 
 This Jupyter notebook contains descriptive analysis of various variables such as age, body mass index (BMI), smoking habit, and geographical region, in relation to health insurance costs. Additionally, possible correlations between these variables are explored, and visualizations are provided to illustrate the findings.
 
-Contribution
-Contributions to this project are welcome. If you find errors or have suggestions for improvements, feel free to open an issue or submit a pull request.
+## Contribution
+
+Contributions, corrections, and advice for this project are welcome. If you find errors or have suggestions for improvements, feel free to open an issue or submit a pull request. I would appreciate it since, in my opinion, this is the best way to learn.
 
