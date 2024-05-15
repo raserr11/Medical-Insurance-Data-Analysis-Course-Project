@@ -1,6 +1,6 @@
-# Health Insurance Analysis
+# Health Insurance Dataset Analysis
 
-This Jupyter notebook contains an analysis of a health insurance dataset to extract valuable insights and relationships among various variables and insurance costs. The analysis is performed in a Python environment using libraries such as Pandas, Matplotlib, and Seaborn.
+This Jupyter notebook contains an analysis of a health insurance dataset aimed at extracting valuable insights and relationships among various variables and insurance costs. The analysis is conducted within a Python notebook environment.
 
 ## Requirements
 
